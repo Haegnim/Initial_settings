@@ -1,6 +1,6 @@
 # 세팅 가이드
 
-## VSC expension list
+## VScode extensions list
 
 - [ ] auto rename tag
 - [ ] es7 react snippets
